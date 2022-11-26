@@ -1,10 +1,17 @@
 #IBM-Project-18568-1659686960
+
+
                                         University Admit Eligibility Predictor
+                                        
+                                        
+                                        
 Team Member:
   1.R.Karthika Devi
   2.R.Keerthika
   3.V.Nithish Kumar
   4.P.Murugan
+  
+  
   
   Abstract:
              Students are often worried about their chances of admission to University. The aim of this project is to help students in
